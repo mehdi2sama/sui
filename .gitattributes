@@ -1,4 +1,4 @@
-# Use Move syntax highlighter for Move IR code
+gjykjuk# Use Move syntax highlighter for Move IR code
 *.mvir linguist-language=Move
 
 # These files are used in "porcelain" file comparison,
